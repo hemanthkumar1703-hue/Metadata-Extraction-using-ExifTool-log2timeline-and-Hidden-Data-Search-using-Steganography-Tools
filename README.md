@@ -89,7 +89,11 @@ binwalk suspicious.jpg
 ```bash
 binwalk /home/kali/Downloads/wallpaper.jpg
 ```
+<img width="609" height="417" alt="image" src="https://github.com/user-attachments/assets/9c0127a0-71e2-4615-8742-44337b5ccdad" />
+<img width="745" height="103" alt="image" src="https://github.com/user-attachments/assets/806dbb1b-8e89-44e2-bb04-c390fa144584" />
 
+<img width="578" height="104" alt="image" src="https://github.com/user-attachments/assets/f8dbe566-7826-41b1-868b-212b30ce3ae8" />
+<img width="685" height="121" alt="image" src="https://github.com/user-attachments/assets/934fc742-84cc-4373-b275-5529f0f886ca" />
 
 ## RESULT:
 Metadata was successfully extracted, timeline analysis was completed, and hidden data was identified using steganography tools.
